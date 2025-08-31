@@ -100,7 +100,7 @@ python manage.py runserver
 LANGUAGE_CODE = 'ja'
 TIME_ZONE = 'Asia/Tokyo'
 ```
-画面表示が日本語に変わっていればOKです。
+リロードして画面表示が日本語に変わっていればOKです。
 
 # 3.ディレクトリ構成について
 ```
@@ -158,7 +158,6 @@ class Article(models.Model):
 
     def __str__(self):
         return self.title
-
 ```
 
 ### マイグレーションの実行
