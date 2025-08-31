@@ -3,7 +3,7 @@ title: "【Django】プロジェクトの新規作成方法"
 emoji: "😺"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["django", "python"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -286,7 +286,7 @@ BASE_DIR はプロジェクトのルートディレクトリ（manage.py があ�
 ### Viewの作成
 続いて、ビューを作成していきます。
 Django では主に**クラスベースビュー**と**関数ベースビュー**の2通りの記載方法があります。
-どちらを選択しても構いません。今回は Django で用意されている汎用ビュー(Generic View)を活用できるのでクラスベースビューで作成していこうと思います。
+どちらを選択しても構いません。今回は Django で用意されている汎用ビュー (Generic View) を活用できるのでクラスベースビューで作成していこうと思います。
 <!-- NOTE: Djangoのクラスベースビューの公式ドキュメント -->
 https://docs.djangoproject.com/ja/5.2/topics/class-based-views/intro/
 
