@@ -3,7 +3,7 @@ title: "Docker + Poetry で Django の開発環境を構築する"
 emoji: "😺"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["django", "python", "docker", "poetry"]
-published: false
+published: true
 ---
 
 
