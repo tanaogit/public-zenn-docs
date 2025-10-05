@@ -3,7 +3,7 @@ title: "MacにClaude Codeをインストールした時に発生する権限エ�
 emoji: "😺"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["claude", "claudecode"]
-published: false
+published: true
 ---
 
 
@@ -18,7 +18,7 @@ published: false
 
 
 # Claude Code の導入
-まずは、公式ドキュメントにあるClaude.aiにアクセスして契約プランを決めてアカウントを作成してください。
+まずは、公式ドキュメントにある Claude.ai にアクセスして契約プランを決めてアカウントを作成してください。
 https://docs.claude.com/ja/docs/claude-code/overview
 
 
